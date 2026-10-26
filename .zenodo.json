@@ -1,0 +1,28 @@
+{
+  "title": "TateLedger: Public Mathematical Ledger of the Tate Conjecture, Known Cases, Implications, and Hodge Comparison",
+  "upload_type": "publication",
+  "description": "Standalone reference ledger (`docs/STATEMENT.md`, `docs/KNOWN_CASES.md`, `docs/IMPLICATIONS.md`, `docs/HODGE_COMPARISON.md`, `docs/NOT_THIS_HOST.md`) cataloging the exact scope of the Tate Conjecture, proven cases (Faltings for divisors on abelian varieties over number fields,Zarhin over function fields, Charles-Madapusi Pera-Maulik for K3 surfaces), implications for BSD/Mordell-Weil ranks, and structural differences from the complex Hodge Conjecture. Reference ledger cataloging literature results and open problems; explicitly does not claim a proof of the general Tate or Hodge conjectures. Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "Tate conjecture",
+    "Abelian varieties",
+    "K3 surfaces",
+    "Faltings theorem",
+    "Hodge conjecture comparison",
+    "Arithmetic geometry"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/TateLedger",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

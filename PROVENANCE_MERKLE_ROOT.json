@@ -1,0 +1,110 @@
+{
+  "schema": "sealguard-merkle-provenance-v1.0",
+  "repository": "BenFrohman/TateLedger",
+  "doi": "10.5281/zenodo.23652982",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "merkle_root_sha256": "bede94079ac02b1b1cac9098e6becfd2b5ec8f43674c8cbfe9290a0b8b508db8",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "d4da23d04854622719ff25d943e48dcb0f886beabdca0d42c9745761ddac3b07a13031d331d7f2be1d5716f51fa484261b9c46820cc36bc1292ab477b7fcc605",
+  "leaf_count": 19,
+  "leaves": [
+    {
+      "path": ".zenodo.json",
+      "sha256": "c642be427b28249dd59e156d30f731ba0ff60ab757a8660e1101478b77a010fe",
+      "bytes": 1376
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "1732529c9d516b14378c2ea60b7a29a9dd01385bb5f302efa163c42b3dceb130",
+      "bytes": 320
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "c16b508b3bf6ffc95046dbf71e6314b7039a41c94271c74b41cc155001a0a3a3",
+      "bytes": 598
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "435ecbc4472f43ddb0e3064aeb80c9eb11152949d331428e48248711dc15c782",
+      "bytes": 1061
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "sha256": "593f626c18539dfddf803e872231c9c3a0e1c368762bef0b9741f20d4dc2aa2b",
+      "bytes": 647
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "ec43eec7417d548fb78a8dc50830f1d854b91a89c2daf0d4e957601515c15e87",
+      "bytes": 10773
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "2c8be330f59f510ba76569e6d9a4a9a1efc56769481f2b24fffe3f63a350b068",
+      "bytes": 582
+    },
+    {
+      "path": "NOTICE.md",
+      "sha256": "f80731613f4432cb1da6c7cdea468623d43d615e3993364551f4c78e33ffd1ef",
+      "bytes": 260
+    },
+    {
+      "path": "README.md",
+      "sha256": "46a5127c15365b1e7ee81b4d018c7c95f11e07ebdd3aa074b8822be19150d8d1",
+      "bytes": 3290
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "3ef25a0925599cd73f580d1d23d900734b9c0b9ddcc59bac7d8c569f4fe2b741",
+      "bytes": 931
+    },
+    {
+      "path": "audit/TITAN_AUDIT_CERTIFICATE.json",
+      "sha256": "782ece33ba3881a8fd67a1c2ec58f4a6280393607f5d55ceced49d04f7782db1",
+      "bytes": 664
+    },
+    {
+      "path": "docs/HODGE_COMPARISON.md",
+      "sha256": "f599e80f2b6903bfd28f961c51320aca34f05d21eb3d1e40390009caa8c9ab82",
+      "bytes": 1028
+    },
+    {
+      "path": "docs/IMPLICATIONS.md",
+      "sha256": "6588e9641ed453fae12e91e6c211cddb2d7e537f63fc305ce51d97215b017290",
+      "bytes": 1655
+    },
+    {
+      "path": "docs/KNOWN_CASES.md",
+      "sha256": "0cf97fc74555618323bcd033107df6d968d55e8b5b7de7a88d2e59f2fefead34",
+      "bytes": 1192
+    },
+    {
+      "path": "docs/LITERATURE.md",
+      "sha256": "175d23a8d608176944ad4ed3b12f5edcf7fb7d1a97420980ad676b38421a3652",
+      "bytes": 1663
+    },
+    {
+      "path": "docs/NOT_THIS_HOST.md",
+      "sha256": "08847092f23f1684fdf5af2d7633d9be25369bf0fdbfcc6079ed66c3dcf69a0f",
+      "bytes": 910
+    },
+    {
+      "path": "docs/STATEMENT.md",
+      "sha256": "b58af703a20ea4e3731c072a9d1da6cc04319a58a38c0bc765782a4bca672223",
+      "bytes": 1163
+    },
+    {
+      "path": "paper/TateLedger_Technical_Monograph_2026.pdf",
+      "sha256": "dbc5520a791c44ab12423851a0f49c03b1be8e1935b3eb4545e8be205e4a23bb",
+      "bytes": 49133
+    },
+    {
+      "path": "paper/TateLedger_Technical_Monograph_2026.tex",
+      "sha256": "c0ef644c588b49df039a50b1371f0386e7d4add1b7547bbf2d0c4909de2779fc",
+      "bytes": 5331
+    }
+  ]
+}

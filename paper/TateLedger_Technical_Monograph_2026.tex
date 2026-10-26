@@ -1,0 +1,104 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue}
+
+\title{\textbf{TateLedger: Public Mathematical Ledger of the Tate Conjecture, Known Cases, Implications, and Hodge Comparison}}
+\author{Benjamin Stanley Frohman\\
+\small ORCID: \href{https://orcid.org/0009-0006-7068-3718}{0009-0006-7068-3718} \quad|\quad
+GitHub: \href{https://github.com/BenFrohman/TateLedger}{\texttt{BenFrohman/TateLedger}}\\
+\small Dedicated 1-to-1 Zenodo DOI: \href{https://doi.org/10.5281/zenodo.23652982}{\texttt{10.5281/zenodo.23652982}}}
+\date{Earliest Commit Provenance: 2026-09-28 05:16:55 AM CDT (UTC-5)\\
+Siloed Archival Edition: October 25, 2026 (America/Chicago CDT)}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Standalone reference ledger (`docs/STATEMENT.md`, `docs/KNOWN\_CASES.md`, `docs/IMPLICATIONS.md`, `docs/HODGE\_COMPARISON.md`, `docs/NOT\_THIS\_HOST.md`) cataloging the exact scope of the Tate Conjecture, proven cases (Faltings for divisors on abelian varieties over number fields,Zarhin over function fields, Charles-Madapusi Pera-Maulik for K3 surfaces), implications for BSD/Mordell-Weil ranks, and structural differences from the complex Hodge Conjecture.
+\end{abstract}
+
+\section{Scope, Scientific Honesty, and Non-Claim Boundary}
+Reference ledger cataloging literature results and open problems; explicitly does not claim a proof of the general Tate or Hodge conjectures.
+
+\begin{itemize}
+  \item \textbf{Repository:} \texttt{https://github.com/BenFrohman/TateLedger}
+  \item \textbf{Dedicated 1-to-1 Zenodo DOI:} \texttt{10.5281/zenodo.23652982}
+  \item \textbf{Earliest Git Commit SHA:} \texttt{50953973410714364f5815a21897dcb594b93bf6} (2026-09-28 05:16:55 AM CDT (UTC-5))
+  \item \textbf{License \& Copyright:} Copyright \textcopyright\ 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.
+\end{itemize}
+
+\section{Technical Overview \& Repository Specification}
+**Author:** Benjamin Stanley Frohman ([@BenFrohman](https://github.com/BenFrohman))
+
+**Copyright:** Copyright (c) 2026 Benjamin Stanley Frohman
+
+**License:** [Apache-2.0](LICENSE)
+
+Public ledger of the Tate conjecture.
+
+This repository is **not** a proof of Tate.
+
+This repository is **not** a proof of Hodge.
+
+It names the sentence, records implications, and points at prior theorems.
+
+Lean skeleton of the same sentence: [BenFrohman/TateConjecture](https://github.com/BenFrohman/TateConjecture)
+
+Complex Hodge ledger: [BenFrohman/HODGE](https://github.com/BenFrohman/HODGE)
+
+Let `X` be smooth projective over a finite field `F\_q`.
+
+After a Tate twist, the cycle class map lands in Galois invariants:
+
+cl : CH\textasciicircum{}i(X)\_Q \textbackslash\{\}otimes Q\_\textbackslash\{\}ell  \textbackslash\{\}to  H\textasciicircum{}\{2i\}\_et(X\_\{bar F\_q\}, Q\_\textbackslash\{\}ell(i))\textasciicircum{}\{Gal\}
+
+Tate: that map is surjective.
+
+The numerical shadow is that geometric Frobenius on `H\textasciicircum{}\{2i\}` has eigenvalue `q\textasciicircum{}i` on the Tate classes. For fourfolds and `i = 2` that shadow is `q\textasciicircum{}2` on `H\textasciicircum{}4`. Weil already forces `|\textbackslash\{\}alpha| = q\textasciicircum{}2` on `H\textasciicircum{}4`. The root `q\textasciicircum{}2` is a condition on a class, not a surface.
+
+Writing `cl(z) = \textbackslash\{\}gamma` is the hard arrow. This repository does not write those cycles for an unspecified `X`.
+
+| File | Content |
+
+|---|---|
+
+| [docs/STATEMENT.md](docs/STATEMENT.md) | the sentence |
+
+\section{Cryptographic Provenance \& File Inventory}
+Every source artifact in \texttt{BenFrohman/TateLedger} is audited via \texttt{titan-audit}
+(\texttt{audit/TITAN\_AUDIT\_CERTIFICATE.json}) and sealed under a deterministic SHA-256 Merkle tree via
+\texttt{sealguard} (\texttt{PROVENANCE\_MERKLE\_ROOT.json}) signed with Ed25519 key fingerprint
+\texttt{b428fb72676f1c52}.
+
+\begin{center}
+\small
+\begin{tabular}{p{0.52\textwidth}rr}
+\toprule
+\textbf{Repository Path} & \textbf{Size} & \textbf{SHA-256 Prefix} \\
+\midrule
+\texttt{CONTRIBUTING.md} & 1061 B & \texttt{435ecbc4472f43dd...} \\
+\texttt{COPYRIGHT.md} & 647 B & \texttt{593f626c18539dfd...} \\
+\texttt{LICENSE} & 11355 B & \texttt{9da72c2bee4f20ba...} \\
+\texttt{NOTICE} & 322 B & \texttt{35405ec5b9c57966...} \\
+\texttt{NOTICE.md} & 260 B & \texttt{f80731613f4432cb...} \\
+\texttt{README.md} & 2208 B & \texttt{5d3dc7e194a117d9...} \\
+\texttt{SECURITY.md} & 931 B & \texttt{3ef25a0925599cd7...} \\
+\texttt{docs/HODGE\_COMPARISON.md} & 1028 B & \texttt{f599e80f2b6903bf...} \\
+\texttt{docs/IMPLICATIONS.md} & 1655 B & \texttt{6588e9641ed453fa...} \\
+\texttt{docs/KNOWN\_CASES.md} & 1192 B & \texttt{0cf97fc745556183...} \\
+\texttt{docs/LITERATURE.md} & 1663 B & \texttt{175d23a8d6081769...} \\
+\texttt{docs/NOT\_THIS\_HOST.md} & 910 B & \texttt{08847092f23f1684...} \\
+\texttt{docs/STATEMENT.md} & 1163 B & \texttt{b58af703a20ea4e3...} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vfill
+\noindent\rule{\textwidth}{0.4pt}\\
+\footnotesize
+\textbf{Attribution \& Licensing Notice:} Copyright \textcopyright\ 2026 Benjamin Stanley Frohman (ORCID: \texttt{0009-0006-7068-3718}).
+Licensed under the Apache License, Version 2.0.
+\end{document}

@@ -1,0 +1,13 @@
+{
+  "schema": "sealguard-manifest-v1.0",
+  "repository": "BenFrohman/TateLedger",
+  "doi": "10.5281/zenodo.23652982",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "public_surface_policy": "VERIFIED_PUBLIC_SURFACE_ONLY",
+  "classified_ip_redaction": "ACTIVE_ZERO_LEAKAGE",
+  "merkle_root_sha256": "bede94079ac02b1b1cac9098e6becfd2b5ec8f43674c8cbfe9290a0b8b508db8",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "d4da23d04854622719ff25d943e48dcb0f886beabdca0d42c9745761ddac3b07a13031d331d7f2be1d5716f51fa484261b9c46820cc36bc1292ab477b7fcc605"
+}

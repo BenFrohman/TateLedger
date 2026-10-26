@@ -1,0 +1,16 @@
+{
+  "schema": "titan-audit-v1.0",
+  "repository": "BenFrohman/TateLedger",
+  "doi": "10.5281/zenodo.23652982",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "lean_module_count": 0,
+  "sorry_count": 0,
+  "modules": [],
+  "verdict": "PASS_ZERO_SORRY_HONEST_BOUNDARY",
+  "payload_sha256": "8e15fdd5ae56e288c6717aed8b5838c9c4d60f2dc5d294f85fb434a8c97a91be",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "ba51f67ad6e871f80ae3b3828a263245d4007888775ee348d87bed679631fe2a7782cbd2e5a5af00c0553f134824b5f20020945415711fd353094a6af1095b01"
+}
