@@ -61,3 +61,9 @@ Tate stays open. Hodge stays open.
 - **SealGuard SHA-256 Merkle Root:** `bede94079ac02b1b1cac9098e6becfd2b5ec8f43674c8cbfe9290a0b8b508db8` (`PROVENANCE_MERKLE_ROOT.json`)
 - **Titan Audit Certificate:** `audit/TITAN_AUDIT_CERTIFICATE.json` (Ed25519 key `b428fb72676f1c52`)
 - **Scope & Scientific Boundary:** Reference ledger cataloging literature results and open problems; explicitly does not claim a proof of the general Tate or Hodge conjectures.
+
+## Zenodo archive
+
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23652981.svg)](https://doi.org/10.5281/zenodo.23652981) TateLedger: Public Mathematical Ledger of the Tate Conjecture, Known Cases, Implications, and Hodge Comparison — all versions: [10.5281/zenodo.23652981](https://doi.org/10.5281/zenodo.23652981); latest version: [10.5281/zenodo.23652982](https://doi.org/10.5281/zenodo.23652982)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23632799.svg)](https://doi.org/10.5281/zenodo.23632799) Arithmetic Cymatics, Nodal Chladni Eigenfunctions on Flat Tori, and Galois Descent of Etale Cycle Classes on Fermat Fourfolds — all versions: [10.5281/zenodo.23632799](https://doi.org/10.5281/zenodo.23632799); latest version: [10.5281/zenodo.23632800](https://doi.org/10.5281/zenodo.23632800)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867539.svg)](https://doi.org/10.5281/zenodo.23867539) TateLedger: Public Mathematical Ledger of the Tate Conjecture, Known Cases, Implications, and Hodge Comparison — all versions: [10.5281/zenodo.23867539](https://doi.org/10.5281/zenodo.23867539); latest version: [10.5281/zenodo.23867540](https://doi.org/10.5281/zenodo.23867540)
