@@ -67,3 +67,7 @@ Tate stays open. Hodge stays open.
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23652981.svg)](https://doi.org/10.5281/zenodo.23652981) TateLedger: Public Mathematical Ledger of the Tate Conjecture, Known Cases, Implications, and Hodge Comparison — all versions: [10.5281/zenodo.23652981](https://doi.org/10.5281/zenodo.23652981); latest version: [10.5281/zenodo.23652982](https://doi.org/10.5281/zenodo.23652982)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23632799.svg)](https://doi.org/10.5281/zenodo.23632799) Arithmetic Cymatics, Nodal Chladni Eigenfunctions on Flat Tori, and Galois Descent of Etale Cycle Classes on Fermat Fourfolds — all versions: [10.5281/zenodo.23632799](https://doi.org/10.5281/zenodo.23632799); latest version: [10.5281/zenodo.23632800](https://doi.org/10.5281/zenodo.23632800)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867539.svg)](https://doi.org/10.5281/zenodo.23867539) TateLedger: Public Mathematical Ledger of the Tate Conjecture, Known Cases, Implications, and Hodge Comparison — all versions: [10.5281/zenodo.23867539](https://doi.org/10.5281/zenodo.23867539); latest version: [10.5281/zenodo.23867540](https://doi.org/10.5281/zenodo.23867540)
+
+## Citation
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Zenodo DOI: [10.5281/zenodo.23652982](https://doi.org/10.5281/zenodo.23652982).
